@@ -1,6 +1,6 @@
 # 🔍 DevDetective
 
-DevDetective is a simple and elegant web application that allows users to search for GitHub profiles and view detailed information such as repositories, followers, following, bio, and more. It also supports light/dark mode and provides a responsive UI for mobile, tablet, and desktop.
+DevDetective is a simple and elegant web application that allows users to search for `GitHub profiles` and view detailed information such as `repositories`, `followers`, `following`, `bio`, and more. It also supports light/dark mode and provides a responsive UI for mobile, tablet, and desktop.
 
 ---
 
@@ -68,7 +68,7 @@ Contributions are welcome!
 
 ## 📜 License
 
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License
 
 ---
 
