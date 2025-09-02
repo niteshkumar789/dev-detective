@@ -22,33 +22,24 @@ DevDetective is a simple and elegant web application that allows users to search
 
 ---
 
-## 📷 Screenshots
-
-### 🔎 Search User
-![Search User Screenshot](./assets/screenshots/search.png)
-
-### 👤 Profile Display
-![Profile Screenshot](./assets/screenshots/profile.png)
-
-### 🌓 Dark Mode
-![Dark Mode Screenshot](./assets/screenshots/darkmode.png)
-
----
-
 ## 📂 Project Structure
 
     dev-detective/
-    │── index.html # Main HTML file
-    │── styles.css # CSS for styling
-    │── script.js # JavaScript logic
-    │── assets/ # Icons, images, and manifest files
-    │── README.md # Documentation
-    │── LICENSE.txt
+    |
+    │─ src  
+    |   |
+    |   │─ assets/ # Icons, images, and manifest files
+    |   │─ index.html
+    |   │─ styles.css
+    |   └─ script.js
+    |
+    │─ README.md
+    └─ LICENSE.txt
 
 ---
 
 ## ⚡ How to Use
-1. Clone this repository: `git clone https://github.com/your-username/dev-detective.git`
+1. Clone this repository: `git clone https://github.com/niteshkumar789/dev-detective.git`
 2. Open the project folder: `cd dev-detective`
 3. Open index.html in your browser.
 4. Enter a GitHub username and click Search.
@@ -57,19 +48,21 @@ DevDetective is a simple and elegant web application that allows users to search
 
 ## 📌 Future Enhancements
 
-⭐ Show pinned repositories.
-📈 Display contribution graphs.
-🌐 Multi-language support.
-💾 Offline mode using service workers.
+- Show pinned repositories.
+- Display contribution graphs.
+- Multi-language support.
+- Offline mode using service workers.
 
 ---
 
 ## 🤝 Contributing
+
 Contributions are welcome!
-Fork the repository
-Create a new branch (feature-new)
-Commit changes
-Push the branch and create a Pull Request
+
+- Fork the repository
+- Create a new branch (feature-new)
+- Commit changes
+- Push the branch and create a Pull Request
 
 ---
 
